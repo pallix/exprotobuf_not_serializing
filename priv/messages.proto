@@ -1,0 +1,4 @@
+message Hello {
+  optional uint32 id = 1;
+  optional bytes content = 2;
+}
